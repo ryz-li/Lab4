@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="input">请输入网址</string>
+    <string name="look">浏览</string>
+</resources>
